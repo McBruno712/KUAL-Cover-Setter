@@ -1,4 +1,4 @@
-This repo is a fork and translation of [DarkAssassinUA/KUAL-Cover-Setter](https://github.com/DarkAssassinUA/KUAL-Cover-Setter), with the extension's menu translated to English.
+This repo is a fork and translation of [DarkAssassinUA/KUAL-Cover-Setter](https://github.com/DarkAssassinUA/KUAL-Cover-Setter), with the extension's menu translated into English.
 
 # KUAL-Cover-Setter
 A simple extension for KUAL that sets a cover for KUAL and KOL in the library.
